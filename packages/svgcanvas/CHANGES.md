@@ -1,15 +1,18 @@
 # svgcanvas CHANGES
 
+## 7.2.9
+- bug fixes(zhou hang)
+-
 ## 7.2.4
-- bug fixes 
+- bug fixes
 - update dependencies
 
 ## 7.2.3
 - update dependencies
 
 ## 7.2.1
-- npm packages ugrade 
+- npm packages ugrade
 - bug fixes
 
-## previous history 
+## previous history
 - See svgedit changes.md

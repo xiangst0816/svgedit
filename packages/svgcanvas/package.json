@@ -1,6 +1,6 @@
 {
     "name": "@dessixio/svgcanvas",
-    "version": "7.2.8",
+    "version": "7.2.9",
     "description": "SVG Canvas",
     "main": "dist/svgcanvas.js",
     "types": "svgedit.d.ts",
